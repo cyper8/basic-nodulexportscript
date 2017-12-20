@@ -1,0 +1,8 @@
+{
+  "name": "basic-nodulexportscript",
+  "version": "0.1.0",
+  "description": "Enables browser to link node modules into page`s scope - in fact the module.exports setter",
+  "main": "basic-nodulexportscript.js",
+  "author": "Anton Yashchuk <anton.yashchuk@gmail.com>",
+  "license": "ISC"
+}
